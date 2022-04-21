@@ -1,0 +1,96 @@
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.csprojAssemblyReference.cache
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.csproj.CoreCompileInputs.cache
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.AssemblyInfoInputs.cache
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.AssemblyInfo.cs
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.deps.json
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.runtimeconfig.json
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.runtimeconfig.dev.json
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.dll
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.pdb
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\LibrairieClasses_Test.dll
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\LibrairieClasses_Test.pdb
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.csproj.CopyComplete
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.dll
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.pdb
+C:\Users\khriis01\Data\Cours\2020\Automne 2020\INF33307\Exercices 2020\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\khriis01\Data\Cours\2020\Automne 2020\INF33307\Exercices 2020\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\khriis01\Data\Cours\2020\Automne 2020\INF33307\Exercices 2020\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\khriis01\Data\Cours\2020\Automne 2020\INF33307\Exercices 2020\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.deps.json
+C:\Users\khriis01\Data\Cours\2020\Automne 2020\INF33307\Exercices 2020\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.runtimeconfig.json
+C:\Users\khriis01\Data\Cours\2020\Automne 2020\INF33307\Exercices 2020\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.runtimeconfig.dev.json
+C:\Users\khriis01\Data\Cours\2020\Automne 2020\INF33307\Exercices 2020\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.dll
+C:\Users\khriis01\Data\Cours\2020\Automne 2020\INF33307\Exercices 2020\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.pdb
+C:\Users\khriis01\Data\Cours\2020\Automne 2020\INF33307\Exercices 2020\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\LibrairieClasses_Test.dll
+C:\Users\khriis01\Data\Cours\2020\Automne 2020\INF33307\Exercices 2020\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\LibrairieClasses_Test.pdb
+C:\Users\khriis01\Data\Cours\2020\Automne 2020\INF33307\Exercices 2020\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.csprojAssemblyReference.cache
+C:\Users\khriis01\Data\Cours\2020\Automne 2020\INF33307\Exercices 2020\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.AssemblyInfoInputs.cache
+C:\Users\khriis01\Data\Cours\2020\Automne 2020\INF33307\Exercices 2020\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.AssemblyInfo.cs
+C:\Users\khriis01\Data\Cours\2020\Automne 2020\INF33307\Exercices 2020\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.csproj.CoreCompileInputs.cache
+C:\Users\khriis01\Data\Cours\2020\Automne 2020\INF33307\Exercices 2020\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.csproj.CopyComplete
+C:\Users\khriis01\Data\Cours\2020\Automne 2020\INF33307\Exercices 2020\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.dll
+C:\Users\khriis01\Data\Cours\2020\Automne 2020\INF33307\Exercices 2020\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.pdb
+C:\Users\khriis01\Data\Cours\2020\Automne 2020\INF33307\Exercices 2020\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.genruntimeconfig.cache
+C:\Users\khriis01\Data\Cours\2021\Automne 2021\INF33307\Exercices 2021\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\khriis01\Data\Cours\2021\Automne 2021\INF33307\Exercices 2021\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\khriis01\Data\Cours\2021\Automne 2021\INF33307\Exercices 2021\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\khriis01\Data\Cours\2021\Automne 2021\INF33307\Exercices 2021\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.deps.json
+C:\Users\khriis01\Data\Cours\2021\Automne 2021\INF33307\Exercices 2021\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.runtimeconfig.json
+C:\Users\khriis01\Data\Cours\2021\Automne 2021\INF33307\Exercices 2021\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.runtimeconfig.dev.json
+C:\Users\khriis01\Data\Cours\2021\Automne 2021\INF33307\Exercices 2021\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.dll
+C:\Users\khriis01\Data\Cours\2021\Automne 2021\INF33307\Exercices 2021\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.pdb
+C:\Users\khriis01\Data\Cours\2021\Automne 2021\INF33307\Exercices 2021\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\LibrairieClasses_Test.dll
+C:\Users\khriis01\Data\Cours\2021\Automne 2021\INF33307\Exercices 2021\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\LibrairieClasses_Test.pdb
+C:\Users\khriis01\Data\Cours\2021\Automne 2021\INF33307\Exercices 2021\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.csproj.AssemblyReference.cache
+C:\Users\khriis01\Data\Cours\2021\Automne 2021\INF33307\Exercices 2021\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khriis01\Data\Cours\2021\Automne 2021\INF33307\Exercices 2021\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.AssemblyInfoInputs.cache
+C:\Users\khriis01\Data\Cours\2021\Automne 2021\INF33307\Exercices 2021\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.AssemblyInfo.cs
+C:\Users\khriis01\Data\Cours\2021\Automne 2021\INF33307\Exercices 2021\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.csproj.CoreCompileInputs.cache
+C:\Users\khriis01\Data\Cours\2021\Automne 2021\INF33307\Exercices 2021\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.csproj.CopyComplete
+C:\Users\khriis01\Data\Cours\2021\Automne 2021\INF33307\Exercices 2021\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.dll
+C:\Users\khriis01\Data\Cours\2021\Automne 2021\INF33307\Exercices 2021\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.pdb
+C:\Users\khriis01\Data\Cours\2021\Automne 2021\INF33307\Exercices 2021\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.genruntimeconfig.cache
+C:\Users\khriis01\Data\Cours\2022\Hiver 2022\8INF847\Exercices 2022\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.csproj.AssemblyReference.cache
+C:\Users\khriis01\Data\Cours\2022\Hiver 2022\8INF847\Exercices 2022\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khriis01\Data\Cours\2022\Hiver 2022\8INF847\Exercices 2022\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.AssemblyInfoInputs.cache
+C:\Users\khriis01\Data\Cours\2022\Hiver 2022\8INF847\Exercices 2022\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.AssemblyInfo.cs
+C:\Users\khriis01\Data\Cours\2022\Hiver 2022\8INF847\Exercices 2022\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.csproj.CoreCompileInputs.cache
+C:\Users\khriis01\Data\Cours\2022\Hiver 2022\8INF847\Exercices 2022\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.dll
+C:\Users\khriis01\Data\Cours\2022\Hiver 2022\8INF847\Exercices 2022\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.pdb
+C:\Users\khriis01\Data\Cours\2022\Hiver 2022\8INF847\Exercices 2022\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\khriis01\Data\Cours\2022\Hiver 2022\8INF847\Exercices 2022\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\khriis01\Data\Cours\2022\Hiver 2022\8INF847\Exercices 2022\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\khriis01\Data\Cours\2022\Hiver 2022\8INF847\Exercices 2022\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.deps.json
+C:\Users\khriis01\Data\Cours\2022\Hiver 2022\8INF847\Exercices 2022\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.runtimeconfig.json
+C:\Users\khriis01\Data\Cours\2022\Hiver 2022\8INF847\Exercices 2022\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.runtimeconfig.dev.json
+C:\Users\khriis01\Data\Cours\2022\Hiver 2022\8INF847\Exercices 2022\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.dll
+C:\Users\khriis01\Data\Cours\2022\Hiver 2022\8INF847\Exercices 2022\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.pdb
+C:\Users\khriis01\Data\Cours\2022\Hiver 2022\8INF847\Exercices 2022\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\LibrairieClasses_Test.dll
+C:\Users\khriis01\Data\Cours\2022\Hiver 2022\8INF847\Exercices 2022\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\LibrairieClasses_Test.pdb
+C:\Users\khriis01\Data\Cours\2022\Hiver 2022\8INF847\Exercices 2022\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.csproj.CopyComplete
+C:\Users\khriis01\Data\Cours\2022\Hiver 2022\8INF847\Exercices 2022\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.genruntimeconfig.cache
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\testhost.exe
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\testhost.dll
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.deps.json
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.runtimeconfig.json
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.runtimeconfig.dev.json
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.dll
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.pdb
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\LibrairieClasses_Test.dll
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\bin\Debug\netcoreapp2.1\LibrairieClasses_Test.pdb
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.csproj.AssemblyReference.cache
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.AssemblyInfoInputs.cache
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.AssemblyInfo.cs
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.csproj.CoreCompileInputs.cache
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.csproj.CopyComplete
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.dll
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.pdb
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\UnitTestLibrairieClasses_Test\obj\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.genruntimeconfig.cache

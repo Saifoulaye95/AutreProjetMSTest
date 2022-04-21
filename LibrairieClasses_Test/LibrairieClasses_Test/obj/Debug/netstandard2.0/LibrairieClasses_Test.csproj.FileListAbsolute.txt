@@ -1,0 +1,51 @@
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\LibrairieClasses_Test\bin\Debug\netstandard2.0\LibrairieClasses_Test.deps.json
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\LibrairieClasses_Test\bin\Debug\netstandard2.0\LibrairieClasses_Test.dll
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\LibrairieClasses_Test\bin\Debug\netstandard2.0\LibrairieClasses_Test.pdb
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\LibrairieClasses_Test\obj\Debug\netstandard2.0\LibrairieClasses_Test.csprojAssemblyReference.cache
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\LibrairieClasses_Test\obj\Debug\netstandard2.0\LibrairieClasses_Test.csproj.CoreCompileInputs.cache
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\LibrairieClasses_Test\obj\Debug\netstandard2.0\LibrairieClasses_Test.AssemblyInfoInputs.cache
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\LibrairieClasses_Test\obj\Debug\netstandard2.0\LibrairieClasses_Test.AssemblyInfo.cs
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\LibrairieClasses_Test\obj\Debug\netstandard2.0\LibrairieClasses_Test.dll
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\LibrairieClasses_Test\obj\Debug\netstandard2.0\LibrairieClasses_Test.pdb
+C:\Users\khriis01\Data\Cours\2020\Automne 2020\INF33307\Exercices 2020\LibrairieClasses_Test\LibrairieClasses_Test\bin\Debug\netstandard2.0\LibrairieClasses_Test.deps.json
+C:\Users\khriis01\Data\Cours\2020\Automne 2020\INF33307\Exercices 2020\LibrairieClasses_Test\LibrairieClasses_Test\bin\Debug\netstandard2.0\LibrairieClasses_Test.dll
+C:\Users\khriis01\Data\Cours\2020\Automne 2020\INF33307\Exercices 2020\LibrairieClasses_Test\LibrairieClasses_Test\bin\Debug\netstandard2.0\LibrairieClasses_Test.pdb
+C:\Users\khriis01\Data\Cours\2020\Automne 2020\INF33307\Exercices 2020\LibrairieClasses_Test\LibrairieClasses_Test\obj\Debug\netstandard2.0\LibrairieClasses_Test.csprojAssemblyReference.cache
+C:\Users\khriis01\Data\Cours\2020\Automne 2020\INF33307\Exercices 2020\LibrairieClasses_Test\LibrairieClasses_Test\obj\Debug\netstandard2.0\LibrairieClasses_Test.AssemblyInfoInputs.cache
+C:\Users\khriis01\Data\Cours\2020\Automne 2020\INF33307\Exercices 2020\LibrairieClasses_Test\LibrairieClasses_Test\obj\Debug\netstandard2.0\LibrairieClasses_Test.AssemblyInfo.cs
+C:\Users\khriis01\Data\Cours\2020\Automne 2020\INF33307\Exercices 2020\LibrairieClasses_Test\LibrairieClasses_Test\obj\Debug\netstandard2.0\LibrairieClasses_Test.csproj.CoreCompileInputs.cache
+C:\Users\khriis01\Data\Cours\2020\Automne 2020\INF33307\Exercices 2020\LibrairieClasses_Test\LibrairieClasses_Test\obj\Debug\netstandard2.0\LibrairieClasses_Test.dll
+C:\Users\khriis01\Data\Cours\2020\Automne 2020\INF33307\Exercices 2020\LibrairieClasses_Test\LibrairieClasses_Test\obj\Debug\netstandard2.0\LibrairieClasses_Test.pdb
+C:\Users\khriis01\Data\Cours\2021\Automne 2021\INF33307\Exercices 2021\LibrairieClasses_Test\LibrairieClasses_Test\bin\Debug\netstandard2.0\LibrairieClasses_Test.deps.json
+C:\Users\khriis01\Data\Cours\2021\Automne 2021\INF33307\Exercices 2021\LibrairieClasses_Test\LibrairieClasses_Test\bin\Debug\netstandard2.0\LibrairieClasses_Test.dll
+C:\Users\khriis01\Data\Cours\2021\Automne 2021\INF33307\Exercices 2021\LibrairieClasses_Test\LibrairieClasses_Test\bin\Debug\netstandard2.0\LibrairieClasses_Test.pdb
+C:\Users\khriis01\Data\Cours\2021\Automne 2021\INF33307\Exercices 2021\LibrairieClasses_Test\LibrairieClasses_Test\obj\Debug\netstandard2.0\LibrairieClasses_Test.csproj.AssemblyReference.cache
+C:\Users\khriis01\Data\Cours\2021\Automne 2021\INF33307\Exercices 2021\LibrairieClasses_Test\LibrairieClasses_Test\obj\Debug\netstandard2.0\LibrairieClasses_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khriis01\Data\Cours\2021\Automne 2021\INF33307\Exercices 2021\LibrairieClasses_Test\LibrairieClasses_Test\obj\Debug\netstandard2.0\LibrairieClasses_Test.AssemblyInfoInputs.cache
+C:\Users\khriis01\Data\Cours\2021\Automne 2021\INF33307\Exercices 2021\LibrairieClasses_Test\LibrairieClasses_Test\obj\Debug\netstandard2.0\LibrairieClasses_Test.AssemblyInfo.cs
+C:\Users\khriis01\Data\Cours\2021\Automne 2021\INF33307\Exercices 2021\LibrairieClasses_Test\LibrairieClasses_Test\obj\Debug\netstandard2.0\LibrairieClasses_Test.csproj.CoreCompileInputs.cache
+C:\Users\khriis01\Data\Cours\2021\Automne 2021\INF33307\Exercices 2021\LibrairieClasses_Test\LibrairieClasses_Test\obj\Debug\netstandard2.0\LibrairieClasses_Test.dll
+C:\Users\khriis01\Data\Cours\2021\Automne 2021\INF33307\Exercices 2021\LibrairieClasses_Test\LibrairieClasses_Test\obj\Debug\netstandard2.0\LibrairieClasses_Test.pdb
+C:\Users\khriis01\Data\Cours\2022\Hiver 2022\8INF847\Exercices 2022\LibrairieClasses_Test\LibrairieClasses_Test\bin\Debug\netstandard2.0\LibrairieClasses_Test.deps.json
+C:\Users\khriis01\Data\Cours\2022\Hiver 2022\8INF847\Exercices 2022\LibrairieClasses_Test\LibrairieClasses_Test\bin\Debug\netstandard2.0\LibrairieClasses_Test.dll
+C:\Users\khriis01\Data\Cours\2022\Hiver 2022\8INF847\Exercices 2022\LibrairieClasses_Test\LibrairieClasses_Test\bin\Debug\netstandard2.0\LibrairieClasses_Test.pdb
+C:\Users\khriis01\Data\Cours\2022\Hiver 2022\8INF847\Exercices 2022\LibrairieClasses_Test\LibrairieClasses_Test\obj\Debug\netstandard2.0\LibrairieClasses_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khriis01\Data\Cours\2022\Hiver 2022\8INF847\Exercices 2022\LibrairieClasses_Test\LibrairieClasses_Test\obj\Debug\netstandard2.0\LibrairieClasses_Test.AssemblyInfoInputs.cache
+C:\Users\khriis01\Data\Cours\2022\Hiver 2022\8INF847\Exercices 2022\LibrairieClasses_Test\LibrairieClasses_Test\obj\Debug\netstandard2.0\LibrairieClasses_Test.AssemblyInfo.cs
+C:\Users\khriis01\Data\Cours\2022\Hiver 2022\8INF847\Exercices 2022\LibrairieClasses_Test\LibrairieClasses_Test\obj\Debug\netstandard2.0\LibrairieClasses_Test.csproj.CoreCompileInputs.cache
+C:\Users\khriis01\Data\Cours\2022\Hiver 2022\8INF847\Exercices 2022\LibrairieClasses_Test\LibrairieClasses_Test\obj\Debug\netstandard2.0\LibrairieClasses_Test.dll
+C:\Users\khriis01\Data\Cours\2022\Hiver 2022\8INF847\Exercices 2022\LibrairieClasses_Test\LibrairieClasses_Test\obj\Debug\netstandard2.0\LibrairieClasses_Test.pdb
+C:\Users\khriis01\Data\Cours\2022\Hiver 2022\8INF847\Exercices 2022\LibrairieClasses_Test\LibrairieClasses_Test\obj\Debug\netstandard2.0\LibrairieClasses_Test.csproj.AssemblyReference.cache
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\LibrairieClasses_Test\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\LibrairieClasses_Test\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\LibrairieClasses_Test\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\LibrairieClasses_Test\bin\Debug\netstandard2.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\LibrairieClasses_Test\bin\Debug\netstandard2.0\LibrairieClasses_Test.deps.json
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\LibrairieClasses_Test\bin\Debug\netstandard2.0\LibrairieClasses_Test.dll
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\LibrairieClasses_Test\bin\Debug\netstandard2.0\LibrairieClasses_Test.pdb
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\LibrairieClasses_Test\obj\Debug\netstandard2.0\LibrairieClasses_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\LibrairieClasses_Test\obj\Debug\netstandard2.0\LibrairieClasses_Test.AssemblyInfoInputs.cache
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\LibrairieClasses_Test\obj\Debug\netstandard2.0\LibrairieClasses_Test.AssemblyInfo.cs
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\LibrairieClasses_Test\obj\Debug\netstandard2.0\LibrairieClasses_Test.csproj.CoreCompileInputs.cache
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\LibrairieClasses_Test\obj\Debug\netstandard2.0\LibrairieClasses_Test.dll
+C:\Users\Saifoulaye\Downloads\LibrairieClasses_Test\LibrairieClasses_Test\LibrairieClasses_Test\obj\Debug\netstandard2.0\LibrairieClasses_Test.pdb
